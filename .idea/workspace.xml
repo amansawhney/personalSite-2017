@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fc09930-6c18-42ad-b737-268f64160635" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/css/foundation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/css/foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/js/vendor/foundation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/js/vendor/foundation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/js/vendor/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foundation-6.4.0-complete/js/vendor/what-input.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -161,6 +166,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -254,12 +260,12 @@
       <updated>1498230622371</updated>
       <workItem from="1498230624143" duration="13000" />
       <workItem from="1498487604480" duration="340000" />
-      <workItem from="1498783245772" duration="2705000" />
+      <workItem from="1498783245772" duration="3027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3058000" />
+    <option name="totallyTimeSpent" value="3380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -323,10 +329,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/foundation-6.4.0-complete/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foundation-6.4.0-complete/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
           <folding />
         </state>
       </provider>
