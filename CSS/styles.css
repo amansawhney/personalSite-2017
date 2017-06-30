@@ -1,7 +1,7 @@
 .nav {
     padding-bottom: 4rem;
     padding-top: 7rem;
-    font-size: 2rem;
+    font-size: 2.2rem;
 }
 .into-text {
     font-weight: bold;
@@ -23,19 +23,15 @@ a {
 .active > a{
     color: #59ABE3;
 }
+.heart {
+    font-size: 500px;
+}
 
 .intro-text-row {
     padding-top: 5rem;
     padding-bottom: 8rem;
     padding-right: 2rem;
     padding-left: 2rem;
-}
-
-ul {
-    list-style-type: none;
-    list-style-position: inside;
-    padding:0;
-
 }
 
 .work-item {
@@ -53,13 +49,9 @@ ul {
 }
 
 .work-img {
-    height: 200px;
+    height: 10em;
 }
 
-.media-footer{
-    position: relative;
-    bottom: -2rem;
-}
 .media-heading {
     padding-bottom: 1rem;
 }
@@ -75,4 +67,13 @@ ul {
 .into-text {
     padding-top: 1rem;
 }
-
+.navbar {
+    background-color: transparent;
+}
+.nav > ul {
+    width: 100%;
+    margin: auto;
+}
+.nav > li {
+    width: 33.33333333%;
+}
