@@ -28,7 +28,7 @@ a {
 }
 
 .intro-text-row {
-    padding-top: 5rem;
+    padding-top: 0rem;
     padding-bottom: 8rem;
     padding-right: 2rem;
     padding-left: 2rem;
@@ -77,3 +77,9 @@ a {
 .nav > li {
     width: 33.33333333%;
 }
+
+.logo {
+    min-height:200px;
+    width: auto;
+}
+
