@@ -86,3 +86,7 @@ body > div > ul > li > a:hover {
     width: auto;
 }
 
+.about-text {
+    font-size: 3rem;
+    font-weight: bolder;
+}
