@@ -219,7 +219,7 @@ var headText = new WordShuffler(headline,{
 
 var pText = new WordShuffler(text,{
     textColor : '#000000',
-    timeOffset : 1
+    timeOffset : 6
 });
 
 var buttonText = new WordShuffler(shuffler,{
@@ -234,3 +234,5 @@ shuffler.addEventListener('click',function () {
     pText.restart();
     buttonText.restart();
 });
+
+
