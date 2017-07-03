@@ -48,9 +48,6 @@ a {
     padding-bottom: 2.5rem;
 }
 
-.work-img {
-    height: 10em;
-}
 
 .media-heading {
     padding-bottom: 1rem;
@@ -135,4 +132,8 @@ p {
     font-size: 2rem;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
+}
+.work-img {
+    padding: 2rem;
+    height: 10em;
 }
