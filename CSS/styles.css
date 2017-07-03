@@ -74,7 +74,7 @@ a {
 .nav > li {
     width: 33.33333333%;
 }
-body > div > ul > li > a:hover {
+a:hover {
     color: #59ABE3;
 }
 
