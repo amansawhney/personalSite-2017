@@ -6435,9 +6435,6 @@ legend {
 
 .intro-text {
   color: yellow;
+  font-size: 5rem;
 
-}
-span {
-  color: red;
-  !important;
 }
