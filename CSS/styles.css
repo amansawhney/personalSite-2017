@@ -135,4 +135,6 @@ p {
 .work-img {
     padding: 2rem;
     height: 10em;
+    border-bottom-color: transparent;
 }
+
