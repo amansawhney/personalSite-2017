@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>A Rails Application by Aman Sawhney</title>
+    <link rel="stylesheet" href="../node_modules/animate.css/animate.min.css">
+    <link rel="stylesheet" href="../css/stagger.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
+    <link rel="stylesheet" href="../css/flat-ui.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+</head>
+<body>
+<div class="container-fluid" >
+    <ul class=" text-center nav">
+        <li role="presentation"><a href="https://github.com/amansawhney">Github</a></li>
+        <li role="presentation"><a href="../about.html">About</a></li>
+        <li role="presentation"><a href="../index.html">Work</a></li>
+    </ul>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-sm-offset-2">
+            <h3 class=" animated bounceIn _1 ">Developing film made easy 📷</h3>
+            <p class="animated fadeInUp _2">I had a problem.  I like developing film, but I hate looking up the times every time I want to develop another roll of film.  So I made an application to do that for me.
+                <br>
+                I built the web application ground up from the database to the final product.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 col-sm-offset-2 animated fadeInLeft _3">
+            <h4>What I Delivered</h4>
+            <ul>
+                <li>
+                    A database that utilizes web scraping to rebuilt itself.
+                </li>
+                <li>
+                    Views that affect one another
+                </li>
+                <li>
+                    A UI based on google's material design
+                </li>
+                <li>
+                    An algorithm  to alert the user when to agitate film
+                </li>
+            </ul>
+            <hr>
+        </div>
+        <div class="col-sm-4  animated fadeInRight _3">
+            <h4>Project Details</h4>
+            <ul>
+                <li>
+                    <strong>Tasks: </strong> Web Scraping, Ruby on Rails, Database Creation, Database Querying, UX/UI
+                </li>
+                <li>
+                    <strong>Client: </strong> Myself
+                </li>
+                <br>
+                <br>
+                <br>
+            </ul>
+            <hr>
+        </div>
+
+        <div class="col-sm-8 col-sm-offset-2">
+            <h4 class="text-center animated bounceIn _4">App Summary</h4>
+            <p class="text-left animated fadeIn _5">
+                The Massive Dev Chart is the world's largest film development chart. It contains development times for most (over 18,000) combinations of black and white films and developers.
+                <br>
+                This Web Application makes the use of that chart far easier by providing a basic UI to the chart.  It not only provides the user with the time for development but also alerts them when to agitate, and the timings for each chemical.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="">
+            <a class="col-sm-3 col-xs-12 btn btn-primary col-sm-offset-2 animated fadeInUp _4" href="https://filmtimer.herokuapp.com">Download this App</a>
+            <br class="visible-xs">
+            <br class="visible-xs">
+            <br class="visible-xs">
+            <a class="col-sm-3 col-xs-12 btn btn-primary  col-sm-offset-2 animated fadeInUp _4" href="https://github.com/amansawhney/filmTimer">View on Github</a>
+        </div>
+    </div>
+</div>
+
+    <div class="container footer animated fadeIn _4">
+        <hr>
+        <div class="row">
+            <div class="pull-left">
+                <button class="btn btn-info"id="grayscale">Party like it is 1999</button>
+            </div>
+            <div class="pull-right">
+                <a class="fui-mail" href="mailto:amansawhney@sawhneygames.com?Subject=Hi stranger"></a> <a href="http://instagram.com/avacado.programmer/"class="fui-instagram"></a> <a href="http://linkedin.com/in/aman-sawhney-b79598143/"class="fui-linkedin"></a>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"> </script>
+
+    <script>
+        $('#grayscale').click(function (){
+            $('link[href=""]').attr('href','../css/bootstrap-geo.css');
+            $('link[href="../css/styles.css"]').attr('href','../css/bootstrap-geo.css');
+            $('#headline').remove();
+        });
+    </script>

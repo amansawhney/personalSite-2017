@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Aman Sawhney - a software developer</title>
+    <link rel="stylesheet" href="node_modules/animate.css/animate.min.css">
+    <link rel="stylesheet" href="css/stagger.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/flat-ui.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+
+
+</head>
+<body>
+<div class="container-fluid" >
+
+    <ul class=" text-center nav">
+        <li role="presentation"><a href="https://github.com/amansawhney">Github</a></li>
+        <li role="presentation"><a href="about.html">About</a></li>
+        <li role="presentation" class="active"><a href="#">Work</a></li>
+    </ul>
+</div>
+
+
+
+
+
+<div class="container">
+    <div class="row  vi visible-xs">
+        <img class="logoSmall img-center animated flip center-block  " src="img/profile.png" >
+    </div>
+    <div class="row visible-md visible-xl visible-sm visible-lg" >
+        <img class="logo animated flip img-responsive center-block " src="img/profile.png">
+    </div>
+
+
+    <div class="row intro-text-row" >
+        <div class = "col-md-10 col-md-offset-1">
+            <article>
+
+                <h1 class= "animated bounce text-center" id="headline">Hi my name is Aman</h1>
+
+                <p class = "into-text animated text-center fadeInUp _2">
+                    I'm a 17 year old software developer.  I mostly develop for the web using Ruby on Rails but also have multiple years of experience with iOS development using Swift.
+                </p>
+
+            </article>
+
+        </div>
+    </div>
+</div>
+
+<div class = "container work">
+    <ul class="media-list col-md-8 col-md-offset-2">
+        <li class="media">
+            <div class="media-left media-middle animated zoomIn _1 hidden-xs">
+                    <img id ="img-media" class="media-object work-img img-rounded" src="img/film-app.png">
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">Film Timer</h4>
+                I solve my own problems. #likeABoss
+                <br>
+                <br>
+                <a class = "media-footer" href="projectPages/filmApp.html">View Project -></a>
+            </div>
+        </li>
+        <hr>
+        <li class="media">
+            <div class="media-left media-middle animated zoomIn _2 hidden-xs ">
+                    <img id ="img-media-1" class="media-object work-img img-rounded"" src="https://lh3.googleusercontent.com/N1f6mALulrx-Lp0B6up_kMgTqUh1L7-MXdKIBLjPGRADthYYOwvP6GN4bwnw0_P_AYW4gIWN9YRLob8uIhVXlrbjpFxbetA">
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">Kitchen Balance</h4>
+                Cooking comes with experience and creativity balancing comes with thumb wrestling skills and socks + sandals.
+                <br>
+                <br>
+                <a class = "media-footer" href="projectPages/kitchenBalance.html">View Project -></a>
+            </div>
+        </li>
+        <hr>
+        <li class="media">
+            <div class="media-left media-middle animated zoomIn _3 hidden-xs">
+                    <img id ="img-media-2" class="media-object work-img img-rounded" src="http://is3.mzstatic.com/image/thumb/Purple20/v4/e1/2a/5b/e12a5b5b-fe64-ca9a-ca6b-8a476d87908e/source/175x175bb.jpg">
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">Hello Zombie</h4>
+                Hello Zombie is an epic platformer where you, the mad scientist, kill the zombies you have unleashed on the world with your specially crafted blaster... on the surface.
+                <br>
+                <br>
+                <a class = "media-footer" href="projectPages/helloZombie.html">View Project -></a>
+            </div>
+        </li>
+    </ul>
+
+</div>
+
+
+<div class="container footer animated fadeIn _4">
+    <hr>
+    <div class="row">
+        <div class="pull-left">
+            <button class="btn btn-info"id="grayscale">Party like it is 1999</button>
+        </div>
+        <div class="pull-right">
+            <a class="fui-mail" href="mailto:amansawhney@sawhneygames.com?Subject=Hi stranger"></a> <a href="http://instagram.com/avacado.programmer/"class="fui-instagram"></a> <a href="http://linkedin.com/in/aman-sawhney-b79598143/"class="fui-linkedin"></a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"> </script>
+
+
+<script src="js/bootstrap.js"></script>
+<script id = "the_script" src="js/aman.js"></script>
+
+<script>
+    $('#grayscale').click(function (){
+        $('link[href=""]').attr('href','css/bootstrap-geo.css');
+        $('link[href="css/styles.css"]').attr('href','css/bootstrap-geo.css');
+        $('#headline').remove();
+        $('#img-media').remove();
+        $('#img-media-1').remove();
+        $('#img-media-2').remove();
+    });
+</script>
+
+
+
+
+</body>
+</html>

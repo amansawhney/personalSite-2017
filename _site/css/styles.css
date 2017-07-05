@@ -149,19 +149,3 @@ p {
 #grayscale {
     margin-left: 1rem;
 }
-
-.juicer {
-    height: 100%;
-}
-.heart {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1em;
-}
-.juicer-feed.modern li.feed-item {
-    flex: auto;
-}
-.juicer-feed h1.referral a {
-    color: transparent;
-    font-size: 0px;
-    visibility: hidden;
-}
