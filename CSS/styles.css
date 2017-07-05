@@ -138,3 +138,14 @@ p {
     border-bottom-color: transparent;
 }
 
+.btn-primary {
+    background-color: #59ABE3;
+}
+
+.btn-primary:hover {
+    background-color: #5bbaf3;
+}
+
+#grayscale {
+    margin-left: 1rem;
+}
