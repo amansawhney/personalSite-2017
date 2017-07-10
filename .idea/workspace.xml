@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fc09930-6c18-42ad-b737-268f64160635" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/projectWireframes/compliment_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/projectWireframes/compliment_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/projectWireframes/compliment_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/projectWireframes/compliment_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/projectWireframes/filmTimer_1 .png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/projectWireframes/filmTimer_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/projectWireframes/filmTimer_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projectPages/complimentSeizure.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectPages/filmApp.html" afterPath="$PROJECT_DIR$/projectPages/filmApp.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="61" column="176" lean-forward="false" selection-start-line="61" selection-start-column="176" selection-end-line="61" selection-end-column="176" />
+            <state relative-caret-position="332">
+              <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -40,14 +30,14 @@
       <file leaf-file-name="complimentSeizure.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projectPages/complimentSeizure.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
+            <state relative-caret-position="924">
               <caret line="112" column="150" lean-forward="false" selection-start-line="112" selection-start-column="150" selection-end-line="112" selection-end-column="150" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compliment_3.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="compliment_3.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_3.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -378,18 +368,18 @@
       <workItem from="1499277871891" duration="1806000" />
       <workItem from="1499465098368" duration="1971000" />
       <workItem from="1499657516580" duration="25000" />
-      <workItem from="1499657570323" duration="994000" />
+      <workItem from="1499657570323" duration="1240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74412000" />
+    <option name="totallyTimeSpent" value="74658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1916" height="1177" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24907652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24907652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -711,16 +701,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -729,14 +709,6 @@
     <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_2.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projectPages/complimentSeizure.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" column="150" lean-forward="false" selection-start-line="112" selection-start-column="150" selection-end-line="112" selection-end-column="150" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projectPages/filmApp.html">
@@ -749,10 +721,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="61" column="176" lean-forward="false" selection-start-line="61" selection-start-column="176" selection-end-line="61" selection-end-column="176" />
+        <state relative-caret-position="332">
+          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPages/complimentSeizure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="112" column="150" lean-forward="false" selection-start-line="112" selection-start-column="150" selection-end-line="112" selection-end-column="150" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
