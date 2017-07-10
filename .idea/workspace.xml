@@ -37,8 +37,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compliment_3.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="compliment_3.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compliment_3.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_3.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -51,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compliment_2.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="compliment_2.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_2.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -74,13 +81,6 @@
       </file>
       <file leaf-file-name="filmTimer_2.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/projectWireframes/filmTimer_2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filmTimer_1 .png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/projectWireframes/filmTimer_1 .png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -368,12 +368,12 @@
       <workItem from="1499277871891" duration="1806000" />
       <workItem from="1499465098368" duration="1971000" />
       <workItem from="1499657516580" duration="25000" />
-      <workItem from="1499657570323" duration="1240000" />
+      <workItem from="1499657570323" duration="1339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74658000" />
+    <option name="totallyTimeSpent" value="74757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1916" height="1177" extended-state="6" />
@@ -426,13 +426,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/profile.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -706,11 +699,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projectPages/filmApp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -741,6 +729,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projectWireframes/compliment_2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
