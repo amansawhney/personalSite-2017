@@ -29,7 +29,6 @@ a {
 
 .intro-text-row {
     padding-top: 0rem;
-    padding-bottom: 8rem;
     padding-right: 2rem;
     padding-left: 2rem;
 }
@@ -38,9 +37,7 @@ a {
     font-weight: bold;
     font-size: 1.5rem;
 }
-.work {
-    padding: 2rem;
-}
+
 
 .media {
     height: auto;
@@ -133,9 +130,42 @@ p {
     padding-bottom: 1.5rem;
 }
 .work-img {
+     padding-left: 1rem;
+    padding-right: 1rem;
+     width: 100%;
+     border-bottom-color: transparent;
+ }
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #59ABE3;
+    z-index: 999;
+}
+
+.overlay:hover {
+    opacity: 1;
+}
+.overlay h4 {
+    font-size: 1.5rem;
+}
+.text {
+    font-size: 1.5rem;
+    color: white;
+    position: absolute;
+    width: 100%;
     padding: 2rem;
-    height: 10em;
-    border-bottom-color: transparent;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
 }
 
 .btn-primary {
