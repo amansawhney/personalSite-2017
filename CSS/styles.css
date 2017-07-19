@@ -1,11 +1,11 @@
 .nav {
     padding-bottom: 4rem;
     padding-top: 7rem;
-    font-size: 2.2rem;
+    font-size: 2.5rem;
 }
 .into-text {
     font-weight: bold;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     color: #000;
 }
 .nav > li {
@@ -132,7 +132,7 @@ p {
 .work-img {
      padding-left: 1rem;
     padding-right: 1rem;
-     width: 100%;
+     width: 200px;
      border-bottom-color: transparent;
  }
 .overlay {
