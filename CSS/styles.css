@@ -8,6 +8,12 @@
     font-size: 2.3rem;
     color: #000;
 }
+h1.into-text {
+    margin-bottom: 0rem;
+}
+h2.into-text {
+    margin-top: 0rem;
+}
 .nav > li {
     float: right;
     font-weight: bold;
@@ -130,11 +136,11 @@ p {
     padding-bottom: 1.5rem;
 }
 .work-img {
-     padding-left: 1rem;
+    padding-left: 1rem;
     padding-right: 1rem;
-     width: 200px;
-     border-bottom-color: transparent;
- }
+    width: 200px;
+    border-bottom-color: transparent;
+}
 .overlay {
     position: absolute;
     top: 0;
