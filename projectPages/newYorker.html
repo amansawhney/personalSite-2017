@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>A Simple React App</title>
+    <link rel="stylesheet" href="../node_modules/animate.css/animate.min.css">
+    <link rel="stylesheet" href="../css/stagger.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
+    <link rel="stylesheet" href="../css/flat-ui.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+</head>
+<body>
+<div class="container-fluid" >
+    <ul class=" text-center nav">
+        <li role="presentation"><a href="https://github.com/amansawhney">Github</a></li>
+        <li role="presentation"><a href="../about.html">About</a></li>
+        <li role="presentation"><a href="../index.html">Work</a></li>
+    </ul>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-sm-offset-2">
+            <h3 class=" animated fadeInLeft _1 ">We are in the big leagues now ⚾</h3>
+            <p class="animated fadeInUp _2">
+                The New Yorker was in need of a front end developer to take their concepts and turn them into a functional digital experience for a branding deal with Amazon.  A friend, Miranda Mu(aka the best UX person ever), connected me with them.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 col-sm-offset-2 animated fadeInLeft _3">
+            <h4>What I Delivered</h4>
+            <ul>
+                <li>
+                    A translation of their visions into an experience
+                </li>
+                <li>
+                    A UI that fit with their UX
+                </li>
+            </ul>
+            <hr>
+        </div>
+        <div class="col-sm-4  animated fadeInRight _3">
+            <h4>Project Details</h4>
+            <ul>
+                <li>
+                    <strong>Tasks: </strong> Javascript front end development, Wordpress integrations
+                </li>
+                <li>
+                    <strong>Company: </strong> The New Yorker + Amazon
+                </li>
+            </ul>
+            <hr>
+        </div>
+
+        <div class="col-sm-8 col-sm-offset-2">
+            <h4 class="text-center animated bounceIn _4">Experience Summary</h4>
+            <p class="text-left animated fadeIn _5">To promote Amazon's new show, "The Last Tycoon," the experience introduces the premise and each character through a serious of vertically sliding pages leading to a call to action.  It invites the user to explore the show from its quirks to the intense drama.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="">
+            <a class="col-sm-3 col-xs-12 col-sm-offset-2 btn btn-primary animated bounceIn _4" href="http://mirandamu.com/">Checkout Miranda</a>
+            <br class="visible-xs">
+            <br class="visible-xs">
+            <br class="visible-xs">
+            <a class="col-sm-3 col-xs-12 col-sm-offset-2 btn btn-primary  animated fadeInUp _4" href="http://paidpost.newyorker.com/article/the-real-tinsel/">Checkout this Experience</a>
+        </div>
+    </div>
+</div>
+
+<div class="container visible-xl visible-lg visible-md visible-sm">
+    <div class="row">
+        <div class="">
+            <h4 class="text-center animated fadeInUp _4">Screen Shots</h4>
+            <img class="img img-responsive col-xs-6 animated bounceIn _5" src="../img/projectImg/newYorker/2017-07-25-11-45-paidpost.newyorker.com.png">
+            <img class="img img-responsive col-xs-6  animated bounceIn _6" src="../img/projectImg/newYorker/2017-07-25-11-46-paidpost.newyorker.com.png">
+        </div>
+    </div>
+</div>
+
+<div class="container footer animated fadeIn _6">
+    <hr>
+    <div class="row">
+        <div class="pull-left">
+            <button class="btn btn-info"id="grayscale">Party like it is 1999</button>
+        </div>
+        <div class="pull-right">
+            <a class="fui-mail" href="mailto:amansawhney@sawhneygames.com?Subject=Hi stranger"></a> <a href="http://instagram.com/avacado.programmer/"class="fui-instagram"></a> <a href="http://linkedin.com/in/aman-sawhney-b79598143/"class="fui-linkedin"></a>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"> </script>
+
+<script>
+    $('#grayscale').click(function (){
+        $('link[href=""]').attr('href','../css/bootstrap-geo.css');
+        $('link[href="../css/styles.css"]').attr('href','../css/bootstrap-geo.css');
+        $('#headline').remove();
+    });
+</script>
