@@ -14,6 +14,9 @@ h1.into-text {
 h2.into-text {
     margin-top: 0rem;
 }
+.media-heading {
+    font-size: 3rem;
+}
 .nav > li {
     float: right;
     font-weight: bold;
