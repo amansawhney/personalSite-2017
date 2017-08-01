@@ -4,13 +4,6 @@
     <list default="true" id="2fc09930-6c18-42ad-b737-268f64160635" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectPages/complimentSeizure.html" afterPath="$PROJECT_DIR$/projectPages/complimentSeizure.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectPages/filmApp.html" afterPath="$PROJECT_DIR$/projectPages/filmApp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectPages/helloZombie.html" afterPath="$PROJECT_DIR$/projectPages/helloZombie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectPages/kitchenBalance.html" afterPath="$PROJECT_DIR$/projectPages/kitchenBalance.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectPages/newYorker.html" afterPath="$PROJECT_DIR$/projectPages/newYorker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectPages/searchBarForLadder.html" afterPath="$PROJECT_DIR$/projectPages/searchBarForLadder.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newYorker.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="newYorker.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projectPages/newYorker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="490">
               <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
               <folding />
             </state>
@@ -95,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="67" column="7" lean-forward="false" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+            <state relative-caret-position="233">
+              <caret line="43" column="141" lean-forward="true" selection-start-line="43" selection-start-column="141" selection-end-line="43" selection-end-column="141" />
               <folding />
             </state>
           </provider>
@@ -189,13 +182,13 @@
         <option value="$PROJECT_DIR$/js/aman.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/projectPages/complimentSeizure.html" />
         <option value="$PROJECT_DIR$/projectPages/filmApp.html" />
         <option value="$PROJECT_DIR$/projectPages/helloZombie.html" />
         <option value="$PROJECT_DIR$/projectPages/kitchenBalance.html" />
         <option value="$PROJECT_DIR$/projectPages/newYorker.html" />
         <option value="$PROJECT_DIR$/projectPages/searchBarForLadder.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -215,9 +208,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="958" />
-    <option name="height" value="1200" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="84" />
+    <option name="y" value="151" />
+    <option name="width" value="1916" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -422,24 +417,24 @@
       <workItem from="1501017610209" duration="1680000" />
       <workItem from="1501192409310" duration="747000" />
       <workItem from="1501215269129" duration="662000" />
-      <workItem from="1501628467136" duration="82000" />
+      <workItem from="1501628467136" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92411000" />
+    <option name="totallyTimeSpent" value="92573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
+    <frame x="84" y="151" width="1916" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2611901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26174143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902032" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3700089" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3853974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -733,14 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="67" column="7" lean-forward="false" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projectPages/complimentSeizure.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
@@ -783,8 +770,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projectPages/newYorker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="490">
           <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="43" column="141" lean-forward="true" selection-start-line="43" selection-start-column="141" selection-end-line="43" selection-end-column="141" />
           <folding />
         </state>
       </provider>
