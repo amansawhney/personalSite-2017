@@ -9,18 +9,35 @@
     <link rel="stylesheet" href="css/flat-ui.min.css">
     <link rel="stylesheet" href="css/styles.min.css">
     <link rel="stylesheet" href="">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="I'm a 17-year-old software developer. I develop in React, Node, Express, Ruby on Rails and Swift. Come see my work!">
 </head>
 <body>
 <div class="container-fluid" >
+<div class="row">
+    <ul class="nav visible-xs ">
+        <li class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle col-xs-3" href="#">Menu </a>
+            <ul class="dropdown-menu">
+                <li role="presentation" ><a href="http://sawhneyphotography.com/">Photography</a></li>
+                <li role="presentation"><a href="https://github.com/amansawhney">Github</a></li>
+                <li role="presentation"><a href="about.html">About</a></li>
+                <li role="presentation" class="active"><a href="#">Work</a></li>
+            </ul>
 
-    <ul class=" text-center nav">
-        <li role="presentation" ><a href="http://photography.amansawhney.com/">Photography</a></li>
+        </li>
+    </ul>
+
+    <ul class=" text-center nav visible-md visible-lg visible-sm">
+        <li role="presentation" ><a href="http://sawhneyphotography.com/">Photography</a></li>
         <li role="presentation"><a href="https://github.com/amansawhney">Github</a></li>
         <li role="presentation"><a href="about.html">About</a></li>
         <li role="presentation" class="active"><a href="#">Work</a></li>
     </ul>
+</div>
+
 </div>
 
 
